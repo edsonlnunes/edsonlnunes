@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, NodeJs, Microsserviços**
 
-- 📫 How to reach me **edson@gmail.com**
+- 📫 How to reach me **edsonmartins3110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
