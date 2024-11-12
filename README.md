@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edson Martins</h1>
-<h3 align="center">I'm Software Engineer at Growdev</h3>
+<h3 align="center">I'm Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edsonlnunes&label=Profile%20views&color=0e75b6&style=flat" alt="edsonlnunes" /> </p>
-
-- 🌱 I’m currently learning **Java, SpringBoot**
-
-- 💬 Ask me about **Flutter, NodeJs, Microsserviços**
 
 - 📫 How to reach me **edsonmartins3110@gmail.com**
 
